@@ -1,0 +1,35 @@
+
+ƒsquid:S1488."eImmediately return this expression instead of assigning it to the temporary variable "randomInteger".(µïù8»Æ†á.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤òÍ¾úÿÿÿÿ8Àÿ” .
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¨ÕÉ8‚ë™ .
+Psquid:S2440""-Remove this instantiation of "InsertionSort".(›Ğí’úÿÿÿÿ8¢¼íà.
+Xsquid:S2209'"5Change this instance-reference to a static reference.(ëá§üÿÿÿÿ8¯•ıà.
+Psquid:S2440&"-Remove this instantiation of "SelectionSort".(û¤êÿûÿÿÿÿ8¯•ıà.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(å“ŸÏ8Àÿ” .
+;squid:S2119-"Save and re-use this "Random".(¼İÅf8»Æ†á.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(å¸ğ8Àÿ” .
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á¬è°8¯•ıà.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(å†úÇ8»Œïà.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü»€8”œª .
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉÙÔøÿÿÿÿ8Àÿ” .
+Xsquid:S2209"5Change this instance-reference to a static reference.(†×¬Áÿÿÿÿÿ8¢¼íà.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(±½øs8Àÿ” .
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿¡–³8Àÿ” .
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‰¤¤º8ÖáÿÃ.
+Msquid:S2440"*Remove this instantiation of "BubbleSort".(ìÑ¾µùÿÿÿÿ8¢¼íà.
+Ssquid:S2209#"5Change this instance-reference to a static reference.(™ˆ§Å8¢¼íà.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ÿè‰Éúÿÿÿÿ8Ê¨òà.
+n
+squid:S128 "LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8ãÖ•á.
+n
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ãÖ•á.

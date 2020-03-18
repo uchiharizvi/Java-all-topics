@@ -1,0 +1,29 @@
+
+…squid:S14885"gImmediately return this expression instead of assigning it to the temporary variable "generatedString".(¸á‚î8îŒóÅ.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‰Ùİ8‚õ£Æ.
+asquid:S1854">Remove this useless assignment to local variable "sortedList".(Áæ¤‘üÿÿÿÿ8ïî†Æ.
+esquid:UselessImportCheck"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ8îŒóÅ.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¨‹îì8Ì¬˜Æ.
+;squid:S21193"Save and re-use this "Random".(¼İÅf8îŒóÅ.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ˆôÚ²ıÿÿÿÿ8­ÕÆ.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(šÇ»¾8óµ¬Æ.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(€†­ğ8¯Ü±Æ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÛ”Ã8²¸Å.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(’ææ”8Ì¬˜Æ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅÑÁĞ8ºš™Æ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ¿şÿÿÿÿ8ìı‡á.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÎÉøÿÿÿÿÿ8ìı‡á.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûä³ûÿÿÿÿ8ìı‡á.
+dsquid:UnusedPrivateMethod/"9Remove this unused private "generateRandomString" method.(¶ùÀ8ìı‡á.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìÈÙøıÿÿÿÿ8ìı‡á.
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(¢ƒ‰¡8ìı‡á.

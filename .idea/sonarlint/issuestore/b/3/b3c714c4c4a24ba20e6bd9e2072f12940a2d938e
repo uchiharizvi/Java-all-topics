@@ -1,0 +1,11 @@
+
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(áÆáÁşÿÿÿÿ8Í¥ùŒ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öü‘Á8Ë‚µùŒ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡«æİùÿÿÿÿ8È ÙùŒ.
+Qsquid:S1172".Remove this unused method parameter "scanner".(¾Áı“ıÿÿÿÿ8®Å­ùŒ.
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾Áı“ıÿÿÿÿ8Æ£ùŒ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜–¢‘ûÿÿÿÿ8é®ö÷Œ.
+asquid:S1854">Remove this useless assignment to local variable "playerData".(Äªçúÿÿÿÿ8¯ÅŞùŒ.
+Rsquid:S1481"/Remove this unused "playerData" local variable.(Äªçúÿÿÿÿ8¯ÅŞùŒ.
